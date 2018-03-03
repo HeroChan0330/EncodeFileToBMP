@@ -1,2 +1,3 @@
 # EncodeFileToBMP
 将指定文件编码到BMP文件流中
+使用方法：启动参数1为encode或decode 启动参数2为源文件 启动参数3为输出文件
