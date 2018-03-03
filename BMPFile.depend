@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1520063857 source:e:\project\bmpfile\main.c
+	<stdio.h>
+	<stdlib.h>
+	"stdint.h"
+	<math.h>
+	<memory.h>
+
